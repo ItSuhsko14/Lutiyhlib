@@ -2,39 +2,56 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "",
+      "title": "Заквасочні хліба!",
+      "description": "Заквасковий хліб - це тренд у світі харчування, який не лише смачний, але й корисний. Виготовлений за допомогою натуральної закваски, він має особливий смак і аромат. Ферментаційний процес робить його більш корисним для здоров'я та привабливим для клієнтів, підвищуючи комерційну вигоду для бізнесу.",
+      "tags": ["", ""],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/bread1.jpg",
+        "alt": "заквасочний хліб",
+        "linkTo": ""
       },
       "links": [
         {
-          "type": "github",
+          "type": "",
           "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
         },
         {
-          "type": "external",
+          "type": "",
           "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "",
+      "title": "Здобні хліба",
+      "description": "Випічка з білого борошна із додаванням здоби (молоко, цукор, солодкі добавки) завжди приваблює тих, хто полюбляє солодкий, м'який хліб та булочки. Подібна позиція завжди зробить хлібне меню різноманітним і привабить свою аудиторію.",
+      "tags": [],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/bread2.jpg",
         "alt": "Extendable Layout"
       },
       "links": [
         {
-          "type": "github",
+          "type": "",
+          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "Панетоне",
+      "description": "Панетоне - один з найскладніших видів випічки, який потребує складних процесів та певного обладнання. Але неймовірний смак та м'яка текстура кінцевого виробу компенсують всі зусилля та ресурси витрачені на нього.",
+      "tags": [],
+      "image": {
+        "src": "../../images/bread3.jpg",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "",
           "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
         }
       ]
@@ -42,7 +59,7 @@
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Перейти до instagram",
+    "url": "https://www.instagram.com/lutiy.hlib"
   }
 }

@@ -1,14 +1,12 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/main.jpg"
+imageAlt: "пекарь Андрій Лютий"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Вітаю! Мене звати Андрій Лютий. Я - пекар захоплений культурою хліба. 
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+Хліб - це не просто робота, це моя пристрасть. Я постійно вивчаю різні техніки та підходи до випічки,, щоб створити смачний та особливий хліб. Мої розробки - це мікс традиційні техніки та власні експерименти які додають унікальний смак кожному шматочку хліба.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+Вірю, що хліб грає велику роль у житті людей і лежить в основі світогляду сучасної цивілізації. Тому вкладаючись у чергову буханку, я можу зачепити глибокі шари в середині людини.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Зараз я займаюся розробкою хлібного меню для різних закладів. Моя мета - створювати продукти, які не лише смачні, а й приносять задоволення та радість кожному, хто їх скуштує. Я вірю, що хліб може бути не лише їжею, а й маленьким куточком натхнення в нашому житті.

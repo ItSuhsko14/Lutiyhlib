@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "Привіт",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
+    "src": "../../images/avatar.jpg",
+    "alt": "Андрій Лютий"
   },
   "image": {
-    "src": "../../images/waving-hand.png",
+    "src": "../../images/bread.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Я Андрій Лютий!",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "Печу хліб 3-ї ",
+    "highlight": "хвилі",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Хліб, панетоне, штолен, бургери, та ін.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": [],
     "showIcons": false
   }
 }
