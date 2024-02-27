@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "image": "./images/logo.jpg" },
+    "logo": { "image": "./images/logo.svg" },
     "navigation": {
       "header": [
         { "label": "Про мене", "url": "/#about" },
