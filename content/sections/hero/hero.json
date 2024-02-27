@@ -8,13 +8,13 @@
     "src": "../../images/bread.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "Я Андрій Лютий!",
+  "title": "Я Андрій Лютий.",
   "subtitle": {
-    "prefix": "Печу хліб 3-ї ",
-    "highlight": "хвилі",
-    "suffix": "."
+    "prefix": "Створюю справжній ",
+    "highlight": "хліб",
+    "suffix": "!"
   },
-  "description": "Хліб, панетоне, штолен, бургери, та ін.",
+  "description": "Розробка хлібного меню, навчання персоналу, консультації",
   "socialProfiles": {
     "from": [],
     "showIcons": false

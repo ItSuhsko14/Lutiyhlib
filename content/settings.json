@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Лютий хліб" },
+    "logo": { "image": "./images/logo.jpg" },
     "navigation": {
       "header": [
         { "label": "Про мене", "url": "/#about" },
